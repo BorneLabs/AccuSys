@@ -3,9 +3,9 @@
  
 ### Visit the live website at **[AccuSys.co.ke](https://accusys.co.ke)**  
 
-## [Watch Demo Video](https://www.youtube.com/watch?v=9kt0-CmsP4Q)  
+## [Watch Demo Video](https://youtu.be/cwdfQukJyOY)  
 
-[![By bornelabs team](https://github.com/BorneLabs/Assets/blob/7553b8cb1d83b671277b2457ac119972b6ae77c4/Images/By%20bornelabs%20team.png)](https://www.youtube.com/watch?v=9kt0-CmsP4Q)  
+[![By bornelabs team](https://github.com/BorneLabs/Assets/blob/7553b8cb1d83b671277b2457ac119972b6ae77c4/Images/By%20bornelabs%20team.png)](https://youtu.be/cwdfQukJyOY)  
 
 ## Overview  
 AccuSys is a web-based platform for car dealerships to manage inventory, sales, and payments in one place.  
